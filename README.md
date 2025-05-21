@@ -1,6 +1,6 @@
 ![MasterHead](https://github.com/harsshgpt/harsshgpt/blob/main/Blue%20and%20White%20Modern%20Videographic%20Music%20YouTube%20Channel%20Art.png)
 
-<img align="right" alt="Coding" width="400" src="https://github.com/harsshgpt/harsshgpt/blob/main/Animation%20-%201747824336347.gif">
+<img align="right" alt="Coding" width="400" src="https://app.lottiefiles.com/animation/a9460a31-2724-436f-bb44-a35547e54296">
 # 💫 About Me:
 🔭 I’m currently working on React JS Projects<br>👯 I’m looking to collaborate on Frontend<br>🤝 I’m looking for help with Backend<br>🌱 I’m currently learning React JS and Tailwind<br>💬 Ask me about Web Development<br>
 
