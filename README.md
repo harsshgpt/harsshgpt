@@ -12,9 +12,9 @@
 ## 🌟 About Me
 
 - 🔭 Working on **React JS Projects**
-- 👯 Open to **Frontend Collaborations**
-- 💡 Exploring **Full Stack Development**
-- 📚 Currently learning **React, Tailwind CSS & Node.js**
+- 👯 Open to **Fullstack Collaborations**
+- 💡 Exploring **ML Development**
+- 📚 Currently learning **Next js**
 - 💬 Ask me anything about **Web Development, UI, or Git**
 
 ---
