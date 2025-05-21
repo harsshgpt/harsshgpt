@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/harsshgpt/harsshgpt/blob/main/banner.png)
+![MasterHead](https://github.com/harsshgpt/harsshgpt/blob/main/Blue%20and%20White%20Modern%20Videographic%20Music%20YouTube%20Channel%20Art.png)
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/662463/screenshots/3281817/media/6edb22bb93ec5b8256156cc2755e3cec.gif">
 # 💫 About Me:
