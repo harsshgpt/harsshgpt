@@ -1,10 +1,15 @@
 <!-- Banner -->
 ![MasterHead](https://github.com/harsshgpt/harsshgpt/blob/main/Blue%20and%20White%20Modern%20Videographic%20Music%20YouTube%20Channel%20Art.png)
 
-<!-- Coding GIF -->
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3V4dWVzeXY2N2g4cHJwMzBuNzJxcWV6bjlmY3l1dmY5a2V6M2J2eiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/VTtANKl0beDFQRLDTh/giphy.gif" />
+<!-- About Me with Coding GIF -->
+<div align="center">
+  <h1>💫 About Me</h1>
+</div>
 
-# 💫 About Me:
+<div align="center">
+  <img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3V4dWVzeXY2N2g4cHJwMzBuNzJxcWV6bjlmY3l1dmY5a2V6M2J2eiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/VTtANKl0beDFQRLDTh/giphy.gif" alt="Coding" width="400"/>
+</div>
+
 - 🔭 I’m currently working on **React JS Projects**  
 - 👯 I’m looking to collaborate on **Frontend Development**  
 - 🤝 I’m looking for help with **Backend Development**  
@@ -12,6 +17,7 @@
 - 💬 Ask me about **Web Development**  
 
 ---
+
 
 ## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harsshgpt/)  
