@@ -2,7 +2,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/662463/screenshots/3281817/media/6edb22bb93ec5b8256156cc2755e3cec.gif">
 # 💫 About Me:
-🔭 I’m currently working on React JS Projects<br>👯 I’m looking to collaborate on Frontend<br>🤝 I’m looking for help with Backend<br>🌱 I’m currently learning React JS and Tailwind<br>💬 Ask me about Web Development<br>⚡ Fun fact - I'm Lord Uzumaki 🥷🏻
+🔭 I’m currently working on React JS Projects<br>👯 I’m looking to collaborate on Frontend<br>🤝 I’m looking for help with Backend<br>🌱 I’m currently learning React JS and Tailwind<br>💬 Ask me about Web Development<br>
 
 
 ## 🌐 Socials:
