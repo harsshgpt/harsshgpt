@@ -4,7 +4,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="200" alt="coding gif" />
   <h1>Hi, I'm Harsh 👋</h1>
-  <h3>A passionate Frontend Developer | DJ | Tech Explorer</h3>
+  <h3>A passionate Frontend Developer | Tech Explorer</h3>
 </div>
 
 ---
@@ -15,14 +15,13 @@
 - 👯 Open to **Frontend Collaborations**
 - 💡 Exploring **Full Stack Development**
 - 📚 Currently learning **React, Tailwind CSS & Node.js**
-- 🎧 DJ by passion, **Developer by profession**
 - 💬 Ask me anything about **Web Development, UI, or Git**
 
 ---
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/harsshgpt)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harsshgupta01/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/harsshgpt)
 
 ---
@@ -35,7 +34,6 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563d7c?style=for-the-badge&logo=bootstrap)
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
-![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=for-the-badge&logo=mysql)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
@@ -61,11 +59,11 @@
 
 ---
 
-## 🔥 Currently Listening On Spotify
+## 📊 Visitor Count
 
-[![Spotify](https://novatorem-olive.vercel.app/api/spotify)](https://open.spotify.com/user/)
-
-> *(Add your Spotify username and deploy Novatorem to use this)*
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=harsshgpt&label=Visitors&color=0e75b6&style=flat" />
+</p>
 
 ---
 
@@ -78,14 +76,6 @@
 ## 🤣 Dev Joke
 
 ![Joke](https://readme-jokes.vercel.app/api?theme=tokyonight)
-
----
-
-## 📊 Visitor Count
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=harsshgpt&label=Visitors&color=0e75b6&style=flat" />
-</p>
 
 ---
 
