@@ -4,7 +4,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="200" alt="coding gif" />
   <h1>Hi, I'm Harsh 👋</h1>
-  <h3>A passionate Frontend Developer | Tech Explorer</h3>
+  <h3>A passionate Full stack Developer | Tech Explorer</h3>
 </div>
 
 ---
