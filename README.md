@@ -13,7 +13,7 @@
 
 - 🔭 Working on **React JS Projects**
 - 👯 Open to **Fullstack Collaborations**
-- 💡 Exploring **ML Development**
+- 💡 Exploring **ML Development for LLM**
 - 📚 Currently learning **Next js**
 - 💬 Ask me anything about **Web Development, UI, or Git**
 
