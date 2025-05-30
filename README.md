@@ -1,6 +1,7 @@
 <!-- Banner -->
 ![Header](https://github.com/harsshgpt/harsshgpt/blob/main/Blue%20and%20White%20Modern%20Videographic%20Music%20YouTube%20Channel%20Art.png)
 
+
 <div align="center">
   <img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="200" alt="coding gif" />
   <h1>Hi, I'm Harsh 👋</h1>
