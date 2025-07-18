@@ -56,14 +56,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=harsshgpt&theme=radical&no-bg=true&margin-w=10"/>
-</p>
-
----
-
 ## 📊 Visitor Count
 
 <p align="center">
